@@ -7,7 +7,6 @@
         "钉钉服务端API",
         "钉钉开放平台"
     ],
-//    "minimum-stability": "dev",
     "type": "yii-extensions",
     "license": "BSD-3-Clause",
     "support": {
