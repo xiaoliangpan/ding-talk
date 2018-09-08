@@ -2,6 +2,7 @@
     "name": "wulove52/ding-talk",
     "description": "钉钉服务端API SDK",
     "keywords": [
+        "dingTalk",
         "阿里钉钉",
         "钉钉服务端API",
         "钉钉开放平台"
